@@ -61,5 +61,3 @@ This Power BI dashboard provides comprehensive insights into sales performance, 
 - **Sales Performance Tracking**: Evaluate salesperson contributions and top customers.
 - **Revenue Analysis**: Monitor overall sales, taxes, and net amounts.
 - **Strategic Planning**: Support business growth through actionable insights.
-
-v
